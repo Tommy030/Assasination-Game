@@ -59,3 +59,9 @@ sysinfo.txt
 crashlytics-build.properties
 
 Assasination Game/Temp/UnityLockfile
+Assasination Game/Library/ArtifactDB
+Assasination Game/Library/Artifacts
+
+*.log
+*.log
+Assasination Game/Logs/AssetImportWorker0.log
