@@ -65,3 +65,7 @@ Assasination Game/Library/Artifacts
 *.log
 *.log
 Assasination Game/Logs/AssetImportWorker0.log
+Assasination Game/Library/ArtifactDB
+Assasination Game/Library/shadercompiler-UnityShaderCompiler.exe0.log
+Assasination Game/Library/SourceAssetDB
+Assasination Game/Logs/AssetImportWorker0.log
